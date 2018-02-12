@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(http://www.htmlcsscolor.com/preview/gallery/005F5F.png);
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.main-nav li a{
+color: white;
+text-decoration: none;
+padding: 1px 20px;
+font-size: 20px;
+}
+a{
+    border: 1px solid white;
+
+}
+
+
+a:hover{
+    border: 1px solid white;
+}  
+
+.details{
+    width: 1200px;
+    margin-top: 0;
+    margin-left: 0;
+}
+.bio{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 150px;
+    color: white;
+}
+#personal{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 480px;
+    text-align: initial;
+
+}
+.name{
+    text-align: center;
+    
+}
+#image1{
+    border-radius: 100%;
+    margin-left: 60px;
+      
+}
+img{
+    border-radius: 50%;
+    margin-top: 40px;
+}
+.about{
+   text-align: left;
+   background-color: beige;
+}
+.video{
+    width: 200px;
+    height: 200px;
+    margin-top: 500px;
+}   
+
+footer{
+    margin-left: 50px;
+    color: black;
+}

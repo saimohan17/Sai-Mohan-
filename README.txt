@@ -1,0 +1,1 @@
+I have created my personal website having 3pages of home, calculation and contact. Also I embedded a video in home page. I have given my social account details like linkedin, facebook, Github etc ..,
